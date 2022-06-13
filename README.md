@@ -13,7 +13,7 @@ This project consists of building a simple Tribute page.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://62a70e0385fbfe23871b1c39--legendary-hummingbird-544eb4.netlify.app/)
 
 ## Authors
 
